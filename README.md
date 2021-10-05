@@ -21,34 +21,27 @@
 [<img align="left" alt="Pycharm" width="26px" src="https://user-images.githubusercontent.com/68898714/136010160-42df9df4-9f85-4ea8-a30a-7121f5e502b6.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/68898714/136010540-8a716289-4ae5-4222-b57c-cf2afca78ca4.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/68898714/136010895-eb31f498-79a2-4c27-a420-f46bf7a38b9f.png" />]
+[<img align="left" alt="Django" width="26px" src="https://user-images.githubusercontent.com/68898714/136011045-1c2f07eb-d09d-4a03-a219-ff8295709028.png" />]
+[<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/68898714/136011251-5e1ffae8-5955-482b-95cd-7b128d11ecee.png" />]
 
 <br />
 <br />
 
 ---
 
-### 📺 Latest YouTube Videos
+## 🔔 Deployed Projects 
 
-<!-- YOUTUBE:START -->
-- [Animations in Vue.js // Callum Macrae Vue.js Live Conference Interview](https://www.youtube.com/watch?v=O2gUILIIYxw)
+- [Blog Website](https://prakhar-blogs.herokuapp.com/)
 - [Beyond State Management with Pinia // Eduardo Morote Vue.js Live Conference Interview](https://www.youtube.com/watch?v=BNGAvhCISOw)
 - [Local State & Server Cache: Finding a Balance // Natalia Tepluhina Vue.js Live Conference Interview](https://www.youtube.com/watch?v=mtN2bJ60B-4)
 - [Options API vs Composition API // Ben Hong Vue.js Live Conference Interview](https://www.youtube.com/watch?v=Sg0HdrcG8pU)
 - [State of Vue // Evan You Vue.js Live Conference Interview](https://www.youtube.com/watch?v=2TuKgTur3rs)
-<!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
