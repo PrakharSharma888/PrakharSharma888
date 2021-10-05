@@ -18,7 +18,7 @@
 [<img align="left" alt="Pycharm" width="30px" src="https://user-images.githubusercontent.com/68898714/136010160-42df9df4-9f85-4ea8-a30a-7121f5e502b6.png" />]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="MySQL" width="30px" src="https://user-images.githubusercontent.com/68898714/136010540-8a716289-4ae5-4222-b57c-cf2afca78ca4.png" />]
+[<img align="left" alt="MySQL" width="30px" src="https://user-images.githubusercontent.com/68898714/136015679-d7f96733-21e9-48dd-a99e-bf45945e7139.png" />]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/68898714/136012887-c0d9066c-8384-4ba6-8e37-dae46a44750a.png" />]
 [<img align="left" alt="Python" width="32px" src="https://user-images.githubusercontent.com/68898714/136010895-eb31f498-79a2-4c27-a420-f46bf7a38b9f.png" />]
