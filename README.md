@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://user-images.githubusercontent.com/68898714/136016864-d0e6a8c8-1a3f-4456-bac8-de825ece2037.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://user-images.githubusercontent.com/68898714/136016569-8e9e7a29-7ec9-4d54-996e-db0648c9ac80.png" />][instagram]
 
 <br />
 
@@ -18,7 +18,7 @@
 [<img align="left" alt="Pycharm" width="30px" src="https://user-images.githubusercontent.com/68898714/136010160-42df9df4-9f85-4ea8-a30a-7121f5e502b6.png" />]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="MySQL" width="30px" src="https://user-images.githubusercontent.com/68898714/136015679-d7f96733-21e9-48dd-a99e-bf45945e7139.png" />]
+[<img align="left" alt="MySQL" width="30px" src="https://user-images.githubusercontent.com/68898714/136017089-ba03e87e-0c00-4c43-9e1c-8b60de59b63e.png" />]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/68898714/136012887-c0d9066c-8384-4ba6-8e37-dae46a44750a.png" />]
 [<img align="left" alt="Python" width="32px" src="https://user-images.githubusercontent.com/68898714/136010895-eb31f498-79a2-4c27-a420-f46bf7a38b9f.png" />]
