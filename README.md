@@ -38,3 +38,7 @@
 
 [instagram]: https://www.instagram.com/prakhar_pandit_sharma/
 [linkedin]: https://www.linkedin.com/in/prakhar-sharma888/
+
+## 🎮 Games i am pro at 😎
+
+<img src="{https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white}" />
