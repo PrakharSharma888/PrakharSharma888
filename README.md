@@ -3,7 +3,7 @@
 ## I'm a Python/Django Developer and an Actor! 😍
 
 - 🔭 I am currently learning JavaScript.
-- 🥅 2021 Goal: Making my backend stronger then ever. 
+- 🥅 2022 Goal: Learn Blockchain. 
 - ⚡ Fun fact: I love to do Dramas/Nukkad-Nataks
 
 ### Connect with me:
