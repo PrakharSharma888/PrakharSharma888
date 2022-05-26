@@ -1,6 +1,6 @@
 ### Hi there, I'm Prakhar Sharma 👋
 
-## I'm a Python/Django Developer and an Actor! 😍
+## I'm a Full Stack Developer, an Blockchain Enthusiast and an Actor! 😍
 
 - 🔭 I am currently learning JavaScript.
 - 🥅 2022 Goal: Learn Blockchain. 
