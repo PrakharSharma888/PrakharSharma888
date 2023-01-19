@@ -2,8 +2,8 @@
 
 ## I'm a Full Stack Developer Blockchain Developer and an Actor! 😍
 
-- 🔭 I am currently learning JavaScript.
-- 🥅 2022 Goal: Learn Blockchain. 
+- 🔭 I am currently working as a Blockchain Developer.
+- 🥅 2022 Goal: Learn Singing. 
 - ⚡ Fun fact: I love to do Dramas/Nukkad-Nataks
 
 ### Connect with me:
