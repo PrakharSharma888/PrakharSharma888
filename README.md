@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer Blockchain Developer and an Actor! 😍
 
 - 🔭 I am currently working as a Blockchain Developer.
-- 🥅 2023 Goal: Learn boxing and be as fit as never before.
+- 🥅 2025 Goal: Earn more money
 - ⚡ Fun fact: I love to do Dramas/Nukkad-Nataks
 
 ### Connect with me:
