@@ -15,7 +15,10 @@
 
 ## 🔔 Deployed Projects 
 
-- [Automated Liquidity Manager]
+- [EVM Balance History Checker](https://check-evm-balance.vercel.app/)
+- [Solana Gas Checker](https://solana-time-gas.lovable.app/)
+- [NFT Whitelisting Dapp](https://mynftwhitelist.vercel.app/)
+- [Automated Liquidity Manager](https://uniswapv3-liquidity-analyzer-nms3th3oa.vercel.app/)
 - [Blog Website](https://prakhar-blogs.herokuapp.com/)
 
 [instagram]: https://www.instagram.com/prakhar_pandit_sharma/
