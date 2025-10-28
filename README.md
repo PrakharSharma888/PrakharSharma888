@@ -1,9 +1,9 @@
 ### Hi there, I'm Prakhar Sharma 👋
 
-## I'm a Full Stack Developer Blockchain Developer and an Actor! 😍
+## I'm a Full Stack Blockchain Developer and an Actor! 😍
 
-- 🔭 I am currently working as a Blockchain Developer.
-- 🥅 2025 Goal: Earn more money
+- 🔭 I am currently working as a Lead Blockchain Developer.
+- 🥅 2025 Goal: Earn more and more money
 - ⚡ Fun fact: I love to do Dramas/Nukkad-Nataks
 
 ### Connect with me:
@@ -15,12 +15,8 @@
 
 ## 🔔 Deployed Projects 
 
+- [Automated Liquidity Manager]
 - [Blog Website](https://prakhar-blogs.herokuapp.com/)
-- [To-Do-List](https://tododailylist.herokuapp.com/)
-- [Corona Tracker](https://covid19-tracker.herokuapp.com/)
-- [Live Chat App](https://chatwithpraks.herokuapp.com/)
-- [Health and Blood](https://healthandblood.herokuapp.com/banks)
-- [To-Do-List with JavaScript](https://mytodolist2.netlify.app/)
 
 [instagram]: https://www.instagram.com/prakhar_pandit_sharma/
 [linkedin]: https://www.linkedin.com/in/prakhar-sharma888/
